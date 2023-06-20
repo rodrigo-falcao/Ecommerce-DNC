@@ -2,14 +2,17 @@
 
 Este repositório contém um aplicativo React para uma plataforma de comércio eletrônico. Ele inclui funcionalidade de login, uma página inicial que exibe produtos, uma página de detalhes do produto e uma página de finalização de compra para fazer pagamentos. O aplicativo usa o React Router para navegação e inclui alguns dados fictícios para fins de demonstração.
 
+<p align="center">
+  <img src="https://github.com/rodrigo-falcao/Ecommerce-DNC/assets/125101340/10fe09c9-f65f-47d3-bdd2-a483388c6a42" alt="accessibility text">
+</p>
+
+
 ## Começando
 
 Para começar com o projeto, siga estas etapas:
 
 1. Clone o repositório para a sua máquina local.
 2. Navegue até o diretório do projeto.
-3. Instale as dependências executando o comando `npm install`.
-4. Inicie o servidor de desenvolvimento executando o comando `npm start`.
 
 ## Estrutura de Pastas
 
